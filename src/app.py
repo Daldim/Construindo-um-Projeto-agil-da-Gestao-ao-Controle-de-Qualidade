@@ -32,3 +32,6 @@ class TaskManager:
 
     def delete_task(self, index):
         self.tasks.pop(index)
+
+    def list_tasks(self):
+        return self.tasks
