@@ -142,6 +142,13 @@ pytest
 - O sistema deve impedir o cadastro de tarefas sem título
 - O sistema deve validar automaticamente as regras de negócio por meio de testes
 
+## 🔄 Mudança de Escopo
+
+Durante o desenvolvimento do projeto, foi identificada a necessidade de permitir a listagem das tarefas cadastradas, funcionalidade não prevista inicialmente.
+
+Essa mudança de escopo resultou na implementação de um novo método para listagem de tarefas, bem como a criação de testes automatizados para garantir seu funcionamento, refletindo a adaptação contínua comum em projetos ágeis.
+
+
 📌 Considerações Finais
 
 Este projeto permitiu aplicar, de forma prática, os principais conceitos da Engenharia de Software, incluindo metodologias ágeis, versionamento, automação de testes, integração contínua e gestão de mudanças. A experiência reflete situações reais do mercado de tecnologia, reforçando a importância da organização, qualidade e adaptabilidade no desenvolvimento de software.
