@@ -134,6 +134,14 @@ pip install pytest
 4️⃣ Executar os testes
 pytest
 
+## 📋 Requisitos Funcionais
+
+- O sistema deve permitir a criação de tarefas com título obrigatório
+- O sistema deve permitir a definição de prioridade das tarefas
+- O sistema deve permitir a listagem das tarefas cadastradas
+- O sistema deve impedir o cadastro de tarefas sem título
+- O sistema deve validar automaticamente as regras de negócio por meio de testes
+
 📌 Considerações Finais
 
 Este projeto permitiu aplicar, de forma prática, os principais conceitos da Engenharia de Software, incluindo metodologias ágeis, versionamento, automação de testes, integração contínua e gestão de mudanças. A experiência reflete situações reais do mercado de tecnologia, reforçando a importância da organização, qualidade e adaptabilidade no desenvolvimento de software.
